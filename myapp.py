@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@danellleang 
-danellleang
-/
-myfirstapp
-Public
-forked from richieyuyongpoh/myfirstapp
-0
-13
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-myfirstapp/myfirstapp.py /
-@richieyuyongpoh
-richieyuyongpoh Update myfirstapp.py
-Latest commit 705f8dd on Jul 21
- History
- 1 contributor
-64 lines (42 sloc)  1.57 KB
-   
 import streamlit as st
 
 import numpy as np
@@ -93,16 +62,3 @@ else:
         time.sleep(0.1)
 
     '...and now we\'re done!'
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
